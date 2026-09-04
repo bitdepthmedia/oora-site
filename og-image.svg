@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#07080b"/>
+  <path d="M0 0h1200v630H0z" fill="url(#grid)" opacity=".18"/>
+  <defs>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0v42" fill="none" stroke="#ffffff" stroke-opacity=".18"/>
+    </pattern>
+  </defs>
+  <rect x="76" y="70" width="16" height="490" fill="#ff7a1a"/>
+  <text x="135" y="158" fill="#ff7a1a" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="7">60-SECOND JOB RECEIPT</text>
+  <text x="135" y="272" fill="#f4efe3" font-family="Arial, sans-serif" font-size="78" font-weight="900">Your job has a</text>
+  <text x="135" y="360" fill="#f4efe3" font-family="Arial, sans-serif" font-size="78" font-weight="900">hidden cover charge.</text>
+  <text x="135" y="442" fill="#ffffff" fill-opacity=".62" font-family="Arial, sans-serif" font-size="32">Find your real hourly wage after the commute,</text>
+  <text x="135" y="487" fill="#ffffff" fill-opacity=".62" font-family="Arial, sans-serif" font-size="32">work spending, and unpaid time.</text>
+  <text x="135" y="550" fill="#ff7a1a" font-family="Arial, sans-serif" font-size="38" font-weight="900">oora.app</text>
+</svg>
